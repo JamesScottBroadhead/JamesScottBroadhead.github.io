@@ -2,7 +2,7 @@ MIT License
 
 Copyright (c) 2020 Rabi Roshan
 
-Edited by James Broadhead 2021 
+Edited 2021 by James Broadhead  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
