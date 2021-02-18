@@ -9,7 +9,7 @@ body {
 	width and height of .gameBoardPixel should 1/40 of the width and height of #gameContainer,
 	because it is used in calculation in the jscript.js file
 	*/
-  width: 40vw;
+  width: 50vw;
   height: 40vw;
   margin: 2vw auto;
   background-color: #0c1021;
