@@ -1,14 +1,6 @@
 # Snake Game
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+**Classic nokia snake game**
 
-**Classic nokia snake game using web.**
+Originally taken from [Rabi Roshan Github](https://github.com/RabiRoshan/snake_game) and edited by [James Broadhead](https://jamesbroadhead.com/) as a means of learning JavaScript, HTML, and CSS. 
 
-## Note:
-
-1. The docs folder contains the latest working files.
-2. Best result on Google Chrome.(Desktop)
-
-
-
-Taken from https://github.com/RabiRoshan/snake_game
